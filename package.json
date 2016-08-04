@@ -1,0 +1,29 @@
+{
+  "name": "nunjucks-prepend",
+  "version": "1.0.0",
+  "description": "Prepend filter for Mozilla Nunjucks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitchellst/nunjucks-prepend.git"
+  },
+  "keywords": [
+    "templates",
+    "nunjucks",
+    "url",
+    "uri",
+    "path",
+    "express",
+    "koa",
+    "viewbook"
+  ],
+  "author": "Mitchell Stoutin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mitchellst/nunjucks-prepend/issues"
+  },
+  "homepage": "https://github.com/mitchellst/nunjucks-prepend#readme"
+}
